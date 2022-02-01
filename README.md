@@ -1,1 +1,1 @@
-# TimeSeries_Beijing_Analysis
+# TimeSeries_Beijing_Analysis - This is Beijing pollution dataset. We have done Data Analysis on Various features and through this we will get an idea how to perform data analysis on Time series Forecasting project.
